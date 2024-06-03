@@ -21,7 +21,7 @@
 
 ## Demo SS
 
-<img src="https://github.com/Prakhar29Sharma/RT-Text-Summarizer/blob/master/demo/extension-manager.png?raw=true" />
-<img src="https://github.com/Prakhar29Sharma/RT-Text-Summarizer/blob/master/demo/extension-popup.png?raw=true" />
-<img src="https://github.com/Prakhar29Sharma/RT-Text-Summarizer/blob/master/demo/demo-article-summary.png?raw=true" />
+<img src="https://github.com/Prakhar29Sharma/RT-Text-Summarizer/blob/master/demo/extension-manager.png" />
+<img src="https://github.com/Prakhar29Sharma/RT-Text-Summarizer/blob/master/demo/extension-popup.png" />
+<img src="https://github.com/Prakhar29Sharma/RT-Text-Summarizer/blob/master/demo/demo-article-summary.png" />
 
